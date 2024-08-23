@@ -1,0 +1,1 @@
+/home/nitish/rust-book/projects/macro-prac/pancakes/target/debug/pancakes: /home/nitish/rust-book/projects/macro-prac/hello_macro/hello_macro_derive/src/lib.rs /home/nitish/rust-book/projects/macro-prac/hello_macro/src/lib.rs /home/nitish/rust-book/projects/macro-prac/pancakes/src/main.rs
